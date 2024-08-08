@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"]}
 ---
 
-
-This is your new *vault*.
+[[Right Wing Principles\|Right Wing Principles]]
+[[Left Wing Principles\|Left Wing Principles]]
 
 Make a note of something, [[create a link\|create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
 
