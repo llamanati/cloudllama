@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-[[Right Wing Principles\|Right Wing Principles]]
-[[Left Wing Principles\|Left Wing Principles]]
+# [[Concepts/Meta-Ethics\|Meta-Ethics]]
 
-Make a note of something, [[create a link\|create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
 
-When you're ready, delete this note and make the vault your own.
+---
+
+# [[Politics/Politics\|Politics]]
+- ## [[Politics/Right Wing Principles\|Right Wing Principles]]
+- ## [[Politics/Left Wing Principles\|Left Wing Principles]]

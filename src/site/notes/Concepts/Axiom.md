@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/axiom/"}
+{"dg-publish":true,"permalink":"/concepts/axiom/","noteIcon":""}
 ---
 
 
