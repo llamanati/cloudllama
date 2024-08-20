@@ -4,7 +4,7 @@
 
 [[TheDommyLlama/Raw Thoughts/Raw Thoughts\|Raw Thoughts]]
 
-
+[[Two D's in a Podcast/Two Ds in a Podcast\|Two Ds in a Podcast]]
 # Socials
 x.com/thedommyllama
 patreon.com/thedommyllama
